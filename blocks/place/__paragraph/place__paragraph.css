@@ -12,7 +12,7 @@
   gap: 1em;
 }
 
-.place__paragraph > p {
+.place__paragraph > .place__paragraph-text {
   margin: 0;
 }
 
