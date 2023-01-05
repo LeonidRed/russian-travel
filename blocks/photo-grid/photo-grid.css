@@ -1,6 +1,6 @@
 .photo-grid {
   margin: 0 48px;
-  text-decoration: none;
+  list-style-type: none;
   padding: 0;
   max-width: 1184px;
   display: grid;
